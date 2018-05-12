@@ -1,10 +1,16 @@
 _repo: Memoires-touchant-la-vie-et-les-ecrits-de-Marie-de-Rabutin-Chantal_50083
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50083-h/images/cover.jpg
 creator:
   author:
     agent_name: Walckenaer, Charles Athanase
     gutenberg_agent_id: '45699'
     url: http://www.gutenberg.org/2009/agents/45699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50083#Memoires-touchant-la-vie-et-les-ecrits-de-Marie-de-Rabutin-Chantal
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Nouveautés
